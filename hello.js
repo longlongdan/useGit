@@ -1,3 +1,3 @@
-let a = "第三次修改";
-let b = "第三次添加";
+let a = "one";
+let b = "one";
 console.log(b);
